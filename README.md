@@ -105,11 +105,10 @@ I would like to express my gratitude to the following YouTube playlist and creat
 
 The tutorials in this playlist provided invaluable guidance and insights into various aspects of Python game development. They played a crucial role in enhancing my understanding and skills, contributing to the successful completion of this project.
 
+## Author
 
+Israt Tasnim Esha,
 
+Dept. Of Computer Science And Engineering,
 
-
-
-
-
-
+Khulna University Of Engineering And Technology.
