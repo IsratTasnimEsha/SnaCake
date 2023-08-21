@@ -38,7 +38,9 @@ Make sure you have Python and the required libraries installed:
 
 ### Logo
 
-![Screenshot (276)](https://github.com/IsratTasnimEsha/SnaCake/assets/88322977/61ee45ae-be0d-44c7-9f4c-30a7b0e56609)
+<div align="center">
+  <img src="https://github.com/IsratTasnimEsha/SnaCake/assets/88322977/61ee45ae-be0d-44c7-9f4c-30a7b0e56609">
+</div>
 
 ### Home Page
 
