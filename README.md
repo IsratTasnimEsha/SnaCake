@@ -107,8 +107,6 @@ The tutorials in this playlist provided invaluable guidance and insights into va
 
 ## Author
 
-Israt Tasnim Esha,
-
-Dept. Of Computer Science And Engineering,
-
-Khulna University Of Engineering And Technology.
+**Israt Tasnim Esha**  
+*Department of Computer Science and Engineering*  
+*Khulna University of Engineering and Technology*
