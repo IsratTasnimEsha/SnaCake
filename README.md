@@ -101,7 +101,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 I would like to express my gratitude to the following YouTube playlist and creator, whose content greatly assisted me in the development of this project:
 
-- [Python Game Development Tutorials](https://youtube.com/@codebasics?si=mzcmmqrLpmDpyiLp) by [codebasics](https://www.youtube.com/c/codebasics)
+- [Python Project: Snake and Apple Game in Python](https://youtube.com/playlist?list=PLeo1K3hjS3usBtsdSgNFe8LfVHPQ0Ynn5&si=y9Y2R7cW_F2I94Ym) by [codebasics](https://www.youtube.com/c/codebasics)
 
 The tutorials in this playlist provided invaluable guidance and insights into various aspects of Python game development. They played a crucial role in enhancing my understanding and skills, contributing to the successful completion of this project.
 
