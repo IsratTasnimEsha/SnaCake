@@ -44,8 +44,6 @@ Make sure you have Python and the required libraries installed:
 
 ## Screenshots
 
-### Logo
-
 ### Home Page
 
 ![Screenshot (263)](https://github.com/IsratTasnimEsha/SnaCake/assets/88322977/f3b8d153-1f4f-4e01-bd82-e78e809cfbc9)
