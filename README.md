@@ -103,6 +103,10 @@ I would like to express my gratitude to the following YouTube playlist and creat
 
 The tutorials in this playlist provided invaluable guidance and insights into various aspects of Python game development. They played a crucial role in enhancing my understanding and skills, contributing to the successful completion of this project.
 
+## Contact
+
+I'm here to assist you on your journey with the SnaCake: A Snake and Cake Game. If you need help or want to share feedback, feel free to reach out to us at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
+
 ## Author
 
 **Israt Tasnim Esha**  
