@@ -105,7 +105,7 @@ The tutorials in this playlist provided invaluable guidance and insights into va
 
 ## Contact
 
-I'm here to assist you on your journey with the SnaCake: A Snake and Cake Game. If you need help or want to share feedback, feel free to reach out to us at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
+I'm here to assist you on your journey with the SnaCake: A Snake and Cake Game. If you need help or want to share feedback, feel free to reach out to me at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
 
 ## Author
 
