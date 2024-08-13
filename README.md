@@ -110,5 +110,4 @@ I'm here to assist you on your journey with the SnaCake - A Snake and Cake Game.
 ## Author
 
 **Israt Tasnim Esha**  
-*Department of Computer Science and Engineering*  
-*Khulna University of Engineering and Technology*
+**Year:** 2021
